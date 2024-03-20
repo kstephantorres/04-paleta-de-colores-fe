@@ -1,6 +1,6 @@
-# Trabajo Practico N º 1
+# Trabajo Practico - Backend
 
-_**PUNTO 6**_
+_**PUNTO 4 - Paleta de Colores (Frontend)**_
 
 ## Tecnologías Utilizadas 🛠️
 
@@ -14,13 +14,13 @@ _Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina._
 
 _Clona el proyecto_
 ```
-git clone https://github.com/kstephantorres/m3-tp1-p06.git
+git clone https://github.com/kstephantorres/04-paleta-de-colores-fe.git
 ``` 
 
 _Instala las dependencias_
 
 ```
-cd m3-tp1-p06
+cd 04-paleta-de-colores-fe
 npm install
 ```
 
@@ -31,7 +31,7 @@ npm run dev
 
 ## Despliegue 📦
 
-_[Deploy en Netlify](https://m3-tp1-p06.netlify.app/)_
+_[Deploy en Netlify](https://04-paleta-de-colores-fe.netlify.app/)_
 
 ## Autor ✒️
 
