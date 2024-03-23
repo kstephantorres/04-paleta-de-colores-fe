@@ -32,6 +32,7 @@ const FormularioColores = () => {
             {
                 console.log("Colo creado")
                 consultarAPI()
+                setColor("") 
             }
             else{
                 console.log("No se pudo crear el color")
